@@ -1,5 +1,5 @@
-# E-commerce-Sales-Customer-Insights-Dashboard
-## This end-to-end project analyzes and visualizes over 1 million retail transactions to uncover product trends, customer behaviors, and revenue drivers.
+## E-commerce-Sales-Customer-Insights-Dashboard
+### This end-to-end project analyzes and visualizes over 1 million retail transactions to uncover product trends, customer behaviors, and revenue drivers.
 
 ![Image](https://github.com/user-attachments/assets/bc1407ab-afe3-46d5-bfcc-50bc30c471ec)
 
